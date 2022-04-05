@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jlsrabbits" target="blank"><img src="https://img.shields.io/twitter/follow/jlsrabbits?logo=twitter&style=for-the-badge" alt="jlsrabbits" /></a> </p>
 
-- 🔭 I’m currently working on [Hundsport](http://hundsport.mx/)
+- 🔭 I’m currently working on [Hundsport](http://hundsport.mx/) & [Animarama](https://animarama.com.mx/)
 
 - 🌱 I’m currently learning **ReactJs**
 
