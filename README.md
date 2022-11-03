@@ -1,11 +1,9 @@
-![techbanner]([https://previews.123rf.com/images/karpenkoilia/karpenkoilia1711/karpenkoilia171100016/90422226-concepto-de-l%C3%ADnea-de-vector-para-inform%C3%A1tica-banner-lineal-web-para-programaci%C3%B3n-.jpg](https://images.wallpapersden.com/image/wxl-programmer-eat-sleep-code-and-repeat_78680.jpg))
+![techbanner](https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png)
 
 <h2 align="center">Hi 👋, I'm Joel Alvarez</h2>
 <h4 align="center">A passionate frontend And Backend developer from México</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeelab&label=Profile%20views&color=0e75b6&style=flat" alt="codeelab" /> </p>
-
-<p align="right"> <a href="https://twitter.com/jlsrabbits" target="blank"><img src="https://img.shields.io/twitter/follow/jlsrabbits?logo=twitter&style=for-the-badge" alt="jlsrabbits" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeelab&label=Profile%20views&color=0e75b6&style=flat" alt="codeelab" /> <a href="https://twitter.com/jlsrabbits" target="blank"><img src="https://img.shields.io/twitter/follow/jlsrabbits?logo=twitter&style=for-the-badge" alt="jlsrabbits" /></a> </p>
 
 * 🍁 I am a Back end Developer based in Morelia, MX
 * 👉 Check out my portfolio site [here](https://joel-alvarez.netlify.app/) 👈
@@ -36,6 +34,9 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
 <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> 
+ <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" height="40"/> </a>
+ <a href="https://www.joomla.org/" target="_blank" rel="noreferrer"> <img src="https://docs.joomla.org/images/0/02/Joomla-flat-logo-en.png" alt="joomla" width="40" height="40"/> </a>
+  <a href="https://moodle.org/?lang=es" target="_blank" rel="noreferrer"> <img src="https://www.dual360.com/wp-content/uploads/2021/01/Hosting-Moodle-logo-1.png" alt="moodle" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
@@ -59,18 +60,19 @@ OS & Code Editors
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
  <a href="https://www.coreldraw.com/" target="_blank" rel="noreferrer"> <img src="https://www.coreldraw.com/static/cdgs/product_content/cdgs/2022/icon-coreldraw.png" alt="corel" width="40" height="40"/> </a>
 
-OS & Code Editors
-
 ---
 
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-ca/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-ca/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://www.apple.com/ac/globalnav/7/en_US/images/be15095f-5a20-57d0-ad14-cf4c638e223a/globalnav_apple_image__b5er5ngrzxqq_large.svg" alt="windows" width="40" height="40"/> </a>
-</a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a> 
-
-
+<a href="https://www.microsoft.com/en-ca/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apple-logo.png/640px-Apple-logo.png" alt="apple" width="40" height="40"/> </a>
+</a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+</a> <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="webstorm" width="40" height="40"/></a> 
+<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png?20150209215936" alt="virtualbox" width="40" height="40"/></a>
+<a href="https://www.cloudflare.com/waf/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/cloudflare-3628686-3029911.png" alt="cloudflare" width="40" height="40"/></a>
+<a href="https://www.fortinet.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/public/uploads/thumbnail/firewalls-fortinetkb-fortinet-fortinetkb-twitter-fortinet-fortinet-logo-11563404930ui7xfllbv8.png" alt="fortinet" width="40" height="40"/></a>
+ 
 Github Stats
 
 ---
