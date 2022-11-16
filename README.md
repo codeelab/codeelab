@@ -1,5 +1,5 @@
 
-![techbanner](https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png)
+![Header](./github-header-image-joel.png)
 <div id="header" align="center">
 <h2>Hi 👋, I'm Joel Alvarez</h2>
 <h4>A passionate frontend And Backend developer from México</h4>
