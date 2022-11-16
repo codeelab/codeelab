@@ -1,9 +1,19 @@
+
 ![techbanner](https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png)
-
-<h2 align="center">Hi 👋, I'm Joel Alvarez</h2>
-<h4 align="center">A passionate frontend And Backend developer from México</h4>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeelab&label=Profile%20views&color=0e75b6&style=flat" alt="codeelab" /> <a href="https://twitter.com/jlsrabbits" target="blank"><img src="https://img.shields.io/twitter/follow/jlsrabbits?logo=twitter&style=for-the-badge" alt="jlsrabbits" /></a> </p>
+<div id="header" align="center">
+<h2>Hi 👋, I'm Joel Alvarez</h2>
+<h4>A passionate frontend And Backend developer from México</h4>
+</div> 
+<div id="badges" align="center">
+   <img src="https://komarev.com/ghpvc/?username=codeelab&label=Profile%20views&color=0e75b6&style=flat" alt="codeelab" />
+   <a href="https://www.linkedin.com/in/joel-alvarez" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/jlsrabbits" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/jlsrabbits?color=blue&label=jlsrabbits&logo=twitter&style=for-the-badge"
+            alt="Twitter Badge" />
+    </a>
+</div>
 
 * 🍁 I am a Back end Developer based in Morelia, MX
 * 👉 Check out my portfolio site [here](https://joel-alvarez.netlify.app/) 👈
@@ -77,7 +87,7 @@ Github Stats
 
 ---
 
-| <a href="https://github.com/codeelab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codeelab&show_icons=true&theme=jolly&hide_border=true" alt="codeelab's github stats" /></a> | <a href="https://github.com/codeelab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeelab&layout=compact&langs_count=8&theme=jolly&hide_border=true" /></a> |
+| <a href="https://github.com/codeelab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codeelab&show_icons=true&theme=onedark&hide_border=true" alt="codeelab's github stats" /></a> | <a href="https://github.com/codeelab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeelab&layout=compact&langs_count=8&theme=jolly&hide_border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 </h2>
