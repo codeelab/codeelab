@@ -5,13 +5,10 @@
 <h4>A passionate frontend And Backend developer from México</h4>
 </div> 
 <div id="badges" align="center">
-   <img src="https://komarev.com/ghpvc/?username=codeelab&label=Profile%20views&color=0e75b6&style=flat" alt="codeelab" />
+   <img src="https://komarev.com/ghpvc/?username=codeelab&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="codeelab" />
+   <a href="mailto:octariccardo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn" data-canonical src="octariccardo@gmail.com" style="max-width:100%;"></a>
    <a href="https://www.linkedin.com/in/joel-alvarez" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/jlsrabbits" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/jlsrabbits?color=blue&label=jlsrabbits&logo=twitter&style=for-the-badge"
-            alt="Twitter Badge" />
     </a>
 </div>
 
@@ -29,66 +26,25 @@
 | :--- | :----- | :-------------- |
 |• a **curious**, **creative** and detail-oriented person.<br/>• a reliable **team leader**.<br/>• a persistent coder.<br/>• a quiet and humble human.<br/>• an **entrepreneur**.<br/>• more than anything, **a doer**.|• to **build products**: from design to launch.<br/>• to **solve** high impact **problems**.<br/>• to keep learning.<br/>• **building** companies.<br/>• outdoors.<br/>• craft beer, coffee and pizza.|• [TecNM Valle de Morelia](https://vmorelia.tecnm.mx/)<br/>• [Colegios Motolinia Morelia](https://www.colegiosmotolinia.edu.mx/)<br/>• [Instituto Panamericano](http://instituto-panamericano.edu.mx/)<br/>• [UNICLA](https://unicla.edu.mx/)<br/>• [UNITECH TI](https://unitechti.mx/)<br/>• [INNARDI](https://innardi.edu.mx/)
 
-<h2 align="center"> Languages & Tools I enjoy using:
+<h3 align="center"> Languages & Tools I enjoy using:</h3>
+<p align="center">
+   
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![D3.js](https://a11ybadges.com/badge?logo=d3dotjs)
+![Material Design](https://a11ybadges.com/badge?logo=materialdesign) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)    ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+</p>  
+   
+<h3 align="center">OS & Code Editors</h3>
+<p align="center">
+   
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Plesk](https://a11ybadges.com/badge?logo=plesk) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![JetBrains](https://a11ybadges.com/badge?logo=jetbrains) ![VirtualBox](https://a11ybadges.com/badge?logo=virtualbox) ![Fortinet](https://a11ybadges.com/badge?logo=fortinet)   
+</p>
 
----
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-<a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
-<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
-
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> 
- <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" height="40"/> </a>
- <a href="https://www.joomla.org/" target="_blank" rel="noreferrer"> <img src="https://docs.joomla.org/images/0/02/Joomla-flat-logo-en.png" alt="joomla" width="40" height="40"/> </a>
-  <a href="https://moodle.org/?lang=es" target="_blank" rel="noreferrer"> <img src="https://www.dual360.com/wp-content/uploads/2021/01/Hosting-Moodle-logo-1.png" alt="moodle" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://graphql.org/img/logo.svg" alt="GraphQL Logo" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt=npm width="40" height="40"/>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-
-OS & Code Editors
-
----
-
- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
- <a href="https://www.coreldraw.com/" target="_blank" rel="noreferrer"> <img src="https://www.coreldraw.com/static/cdgs/product_content/cdgs/2022/icon-coreldraw.png" alt="corel" width="40" height="40"/> </a>
-
----
-
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-ca/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-ca/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apple-logo.png/640px-Apple-logo.png" alt="apple" width="40" height="40"/> </a>
-</a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-</a> <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="webstorm" width="40" height="40"/></a> 
-<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png?20150209215936" alt="virtualbox" width="40" height="40"/></a>
-<a href="https://www.cloudflare.com/waf/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/cloudflare-3628686-3029911.png" alt="cloudflare" width="40" height="40"/></a>
-<a href="https://www.fortinet.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/public/uploads/thumbnail/firewalls-fortinetkb-fortinet-fortinetkb-twitter-fortinet-fortinet-logo-11563404930ui7xfllbv8.png" alt="fortinet" width="40" height="40"/></a>
- 
-Github Stats
-
----
-
-| <a href="https://github.com/codeelab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codeelab&show_icons=true&theme=onedark&hide_border=true" alt="codeelab's github stats" /></a> | <a href="https://github.com/codeelab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeelab&layout=compact&langs_count=8&theme=jolly&hide_border=true" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-</h2>
+<h3 align="center">Github Stats</h3>
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeelab&theme=monokai">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeelab&theme=monokai">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeelab&theme=monokai">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeelab&theme=monokai">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeelab&theme=monokai&utcOffset=8">
+</p>
 
